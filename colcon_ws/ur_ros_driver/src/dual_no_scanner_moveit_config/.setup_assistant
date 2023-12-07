@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: ur_description
+    relative_path: urdf/dual_arm_no_scanner.urdf.xacro
+  srdf:
+    relative_path: config/dual_arm.srdf
+  package_settings:
+    author_name: LEEBH
+    author_email: byeonghyun98@hanyang.ac.kr
+    generated_timestamp: 1701064539
